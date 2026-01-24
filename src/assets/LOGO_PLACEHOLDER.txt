@@ -1,0 +1,19 @@
+LOGO PLACEHOLDER
+================
+
+You need to add the Clear30 logo to this directory as 'logo.png'
+
+The logo should be:
+- Named: logo.png
+- Format: PNG (or SVG)
+- Recommended size: 300-400px wide
+- Transparent background preferred
+- Brand colors: Teal (#5BB4A9) and Green (#80C97A)
+
+A temporary SVG logo (logo.svg) has been provided for testing purposes.
+To use it temporarily, update the import in Footer.jsx from:
+  import logo from '../assets/logo.png'
+to:
+  import logo from '../assets/logo.svg'
+
+For production, replace this with your actual Clear30 logo file.

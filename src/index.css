@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Base font */
+body {
+  font-family: 'Lexend', sans-serif;
+}
+
+/* Gradient text utility class */
+.gradient-text {
+  background: linear-gradient(135deg, #5BB4A9 0%, #80C97A 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
