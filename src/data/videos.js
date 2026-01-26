@@ -5,7 +5,7 @@ export const heroVideo = {
 
 export const faqVideos = [
   {
-    id: 'Ab5lzXGq4e4',
+    id: 'fOfI5OBI9aA',
     question: 'Why Focus on Cannabis?',
   },
   {
@@ -17,7 +17,7 @@ export const faqVideos = [
     question: 'What Will Results Look Like?',
   },
   {
-    id: 'rDLP-7YLfmQ',
+    id: '2nGt9kLU_O4',
     question: 'Is Clear30 Data Secure and Compliant?',
   },
   {
@@ -29,7 +29,7 @@ export const faqVideos = [
     question: 'How Selective Is Clear30?',
   },
   {
-    id: 'FjYlRDJlpKQ',
+    id: 'MWWZrzwUzjg',
     question: 'What Does Cost Look Like?',
   },
 ];
