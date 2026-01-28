@@ -28,10 +28,6 @@ export const faqVideos = [
     id: '5-rN24nCzzg',
     question: 'How Selective Is Clear30?',
   },
-  {
-    id: 'MWWZrzwUzjg',
-    question: 'What Does Cost Look Like?',
-  },
 ];
 
 export const testimonialVideos = [
